@@ -18,3 +18,5 @@ I'm a data enthusiast who loves to dive into datasets, uncover hidden patterns, 
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerairaj&show_icons=true&theme=nightowl)
